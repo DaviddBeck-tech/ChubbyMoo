@@ -1,0 +1,6 @@
+{
+  "name": "Lovely Scheduler",
+  "description": "Một ứng dụng lên lịch công việc với tông màu pastel đáng yêu, hỗ trợ dời lịch linh hoạt và quản lý trạng thái công việc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
